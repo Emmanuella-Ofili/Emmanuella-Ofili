@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Emmanuella-Ofili
+- 👋 Hi, I’m Emmanuella B. Ofili
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any intersting project
