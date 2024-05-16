@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Emmanuella B. Ofili
-- 👀 I’m interested in coding
+- 👋🏾 Hi, I’m Emmanuella
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any intersting project
 - 📫 Reach me on LinkedIn: https://www.linkedin.com/in/emmanuella-ofili-9b4295245
